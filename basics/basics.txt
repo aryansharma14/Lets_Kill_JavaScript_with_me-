@@ -1,0 +1,11 @@
+hello , in this folder i am gonaa talk about :--
+
+basics of Jvascript 
+
+input/output programs
+
+variables and operators
+
+what is dom 
+8
+how javascript works=
